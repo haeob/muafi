@@ -28,4 +28,4 @@
 ## 备注
   - 目前默认未自带音效，建议自行选择。
   - 在托盘中右键工具的托盘打开设置界面。
-  - 交流&反馈：
+  - 交流&反馈：[muafi - sakuraxy](https://forum.sakuraxy.com/t/topic/126)
