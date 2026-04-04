@@ -24,6 +24,10 @@
   - 作为自己专属的动态/静态自定义水印。
   - ...
 
+## 获取一些GIF
+
+- [MemeTray](https://github.com/MemeTray/MemeTray)
+  - 网页版：[MemeTray](https://memetray.org/)
 
 ## 计划&TODO
 - 很多很多。
