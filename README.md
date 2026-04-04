@@ -37,6 +37,12 @@
 
 
 ## 备注
+- 关于音效
   - 目前默认未自带音效，建议自行选择。
+
+- 设置方法
   - 在win任务栏中右键muafi的托盘打开设置界面。
-  - 交流&反馈：[muafi - sakuraxy](https://forum.sakuraxy.com/t/topic/126)
+- [😪如何早睡😪](https://github.com/haeob/HowToEarlySleep)
+  - 可以试试在muafi中放上提醒你早睡的图片，来在电脑桌面提醒你早睡。
+ 
+- 交流&反馈：[muafi - sakuraxy](https://forum.sakuraxy.com/t/topic/126)
